@@ -1,0 +1,28 @@
+@import "~bootstrap/scss/functions";
+@import "./helpers/_variables.scss";
+@import "~bootstrap/scss/bootstrap";
+@import "./_dashboard.scss";
+@import "./styles/cart_responsive.scss";
+@import "./styles/cart.scss";
+@import "./styles/categories_responsive.scss";
+@import "./styles/product.scss";
+@import "./styles/product_responsive.scss";
+@import "./styles/main_styles.scss";
+@import "./styles/responsive.scss";
+
+
+
+// 區塊式內容
+@import "./components/_header.scss";
+@import "./components/_section.scss";
+@import "./components/_item-card.scss";
+@import "./components/_carts.scss";
+
+// 元件
+@import "./components/_form-square.scss";
+@import "./components/_process-steps.scss";
+@import "./components/_interactive.scss"; // 互動元件
+@import "./components/_custom-bs4.scss";  // Bootstrap 4 調整
+
+// 通用類別
+@import "./components/_utilities";
