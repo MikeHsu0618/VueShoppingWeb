@@ -1,6 +1,8 @@
 # 甜點購物商城
 
  一個用VUECLI打造前後台購物商城
+ 
+ ### Demo:https://mikehsu0618.github.io/admin/products
 
 <img src="img/index.png" width="90%"></img>
 
