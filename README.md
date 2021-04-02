@@ -1,24 +1,32 @@
 # 甜點購物商城
 
  一個用VUECLI打造前後台購物商城
- 
+
+<img src="img/index.png" width="90%"></img>
 
 
 ---
  利用六角學院提供的ＡＰＩ實作出
- 
+
 
 > 購物車功能
+>
+<img src="img/cart.png" width="90%"></img>
 
 > 結帳功能
+>
+<img src="img/shopping.png" width="90%"></img>
 
->Api串接
+
 
 >後台上架商品
-
+>
 >新增優惠券
-
+>
 >管理訂單資訊
+>
+<img src="img/backend.png" width="90%"></img>
+
 
 ## Build Setup
 
