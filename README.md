@@ -2,7 +2,7 @@
 
  一個用VUECLI打造前後台購物商城
  
- ### Demo:https://mikehsu0618.github.io/admin/products
+ ### Demo:https://mikehsu0618.github.io/VueShoppingWeb/
 
 <img src="img/index.png" width="90%"></img>
 
